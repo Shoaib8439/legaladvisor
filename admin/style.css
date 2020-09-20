@@ -1,0 +1,33 @@
+.btn_add {
+	padding: 10px;
+	font-size: 15px;
+	color: black;
+	background:	#00ffff;
+	border: none;
+	border-radius: 10px;
+}
+
+.btn_active {
+	padding: 10px;
+	font-size: 15px;
+	color: black;
+	background:green;
+	border: none;
+	border-radius: 10px;
+}
+.btn_delete {
+	padding: 10px;
+	font-size: 15px;
+	color: black;
+	background:red;
+	border: none;
+	border-radius: 10px;
+}
+.btn_previous {
+	padding: 10px;
+	font-size: 15px;
+	color: black;
+	background:red;
+	border: none;
+	border-radius: 10px;
+}
